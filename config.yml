@@ -1,0 +1,10 @@
+Connection:
+  host: vcenter
+  user: zabbix@vsphere.local
+  pswd: password
+  port: 443
+Debug:
+  enabled: False
+Hosts:
+  enabled: False
+  path: /etc/hosts
